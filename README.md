@@ -55,15 +55,16 @@
 ## ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛꜱ 💜
 ʜᴇʀᴏᴋᴜ ɪꜱ ᴛʜᴇ ᴇᴀꜱʏ ᴡᴀʏ ᴛᴏ ʜᴏꜱᴛ ᴜʀ ᴀᴘᴘꜱ
 
-[![ᴢᴠᴄ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsunknown-12/Zaid-Vc-Player)
+[![ᴢᴠᴄ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsunknown-12/Zaid-Vc-Player/tree/yukki)
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
 ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](https://github.com/Itsunknown-12/Zaid-Vc-Player), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
 
-[![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Itsunknown-12/Zaid-Vc-Player&envs=SESSION_NAME,BOT_TOKEN,ASS_ID,OWNER_ID,LOG_CHANNEL,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
+[![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Itsunknown-12/Zaid-Vc-Player&envs=SESSION_NAME,BOT_TOKEN,ASS_ID,OWNER_ID,ZAID_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
 ### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
-- Veez Music
+- Callsmusic
+- Yukki
 - Daisy
 - PyroGram
 -xyz ⚡
