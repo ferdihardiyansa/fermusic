@@ -34,6 +34,16 @@
             "required": false,
             "value": "4e984ea35f854762dcde906dce426c2d"
         },
+        "ZAID_SUPPORT": {
+            "description": "Ur Support Group Username",
+            "required": false,
+            "value": "Superior_Support"
+        },
+        "UPDATES_CHANNEL": {
+            "description": "Ur Updates Channel",
+            "required": false,
+            "value": "Superior_bots"
+        },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
