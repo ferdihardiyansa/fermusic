@@ -54,7 +54,7 @@
 ## ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛꜱ 💜
 ʜᴇʀᴏᴋᴜ ɪꜱ ᴛʜᴇ ᴇᴀꜱʏ ᴡᴀʏ ᴛᴏ ʜᴏꜱᴛ ᴜʀ ᴀᴘᴘꜱ
 
-[![ᴢᴠᴄ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsunknown-12/Zaid-Vc-Player)
+[![ᴢᴠᴄ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ferdihardiyansa/fermusic)
 
 ## ᴅᴇᴘʟᴏʏ ꜰᴏʀ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ  💜
 ʜᴇʀᴏᴋᴜ ɪꜱ ᴛʜᴇ ᴇᴀꜱʏ ᴡᴀʏ ᴛᴏ ʜᴏꜱᴛ ᴜʀ ᴀᴘᴘꜱ
