@@ -99,10 +99,10 @@ async def play(_, message: Message):
         if message.chat.username:
             try: 
                 await ASS_ACC.join_chat(f"{message.chat.username}")
-                await message.reply(f"✅ {ASSNAME} Joined Successfully",) 
+                await message.reply(f"✅ {ASSNAME} sudah join",) 
                 await remove_active_chat(chat_id)
             except Exception as e:
-                await message.reply_text(f"❌ __**Assistant Failed To Join**__\n\n**Reason**:{e}")
+                await message.reply_text(f"❌ __**Assistant gagal untuk join**__\n\n**Reason**:{e}")
                 return
         else:
             try:
@@ -122,7 +122,7 @@ async def play(_, message: Message):
     if audio:
         fucksemx = 1
         what = "Audio Searched"
-        mystic = await message.reply_text(f"**🔄 Processing Audio Given By {username}**")
+        mystic = await message.reply_text(f"**🔄tunggu anak anj {username}**")
         if audio.file_size > 157286400:
             await mystic.edit_text("❌ Audio File Size Should Be Less Than 150 mb") 
             return
@@ -245,7 +245,7 @@ async def play(_, message: Message):
         what = "Query Given"
         await LOG_CHAT(message, what)
         query = message.text.split(None, 1)[1]
-        mystic = await message.reply_text("**🔄 Searching**")
+        mystic = await message.reply_text("**🔄tunggu yah tod**")
         try:
             a = VideosSearch(query, limit=5)
             result = (a.result()).get("result")
@@ -371,7 +371,7 @@ async def startyuplay(_,CallbackQuery):
     except Exception as e:
         return await CallbackQuery.message.reply_text(f"❌ Failed to download this video.\n\n**Reason**:{e}") 
     title = (x["title"])
-    await CallbackQuery.answer(f"Selected {title[:20]}.... \nProcessing...")
+    await CallbackQuery.answer(f"Selected {title[:20]}.... \ntunggu...")
     mystic = await CallbackQuery.message.reply_text(f"Downloading {title[:50]}")
     thumbnail = (x["thumbnail"])
     idx = (x["id"])
